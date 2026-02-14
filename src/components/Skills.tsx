@@ -1,4 +1,4 @@
-import React, { MouseEvent } from 'react';
+import type { MouseEvent } from 'react';
 import { motion, useMotionTemplate, useMotionValue } from 'framer-motion';
 
 const skills = {

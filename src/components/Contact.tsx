@@ -1,6 +1,6 @@
 import React, { useState, useRef } from 'react';
 import { motion, useMotionValue, useTransform, useSpring, AnimatePresence } from 'framer-motion';
-import { Send, Mail, MapPin, Loader2, CheckCircle, AlertCircle } from 'lucide-react';
+import { Send, Mail, MapPin, Loader2, CheckCircle } from 'lucide-react';
 import emailjs from '@emailjs/browser';
 
 const FloatingInput = ({ label, name, value, onChange, type = "text", required = false }: any) => {

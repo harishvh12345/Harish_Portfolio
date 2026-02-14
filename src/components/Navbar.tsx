@@ -1,7 +1,6 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
 import { Menu, X, Github, Linkedin, Mail } from 'lucide-react';
-import { clsx } from 'clsx';
 import { twMerge } from 'tailwind-merge';
 import ThemeToggle from './ThemeToggle';
 

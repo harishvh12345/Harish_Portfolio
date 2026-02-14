@@ -1,6 +1,5 @@
-import React, { useState } from 'react';
 import { motion, useMotionValue, useSpring, useTransform } from 'framer-motion';
-import { Award, CheckCircle, ExternalLink, Trophy } from 'lucide-react';
+import { CheckCircle, Trophy } from 'lucide-react';
 
 const certifications = [
     {

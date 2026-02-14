@@ -111,7 +111,7 @@ const projects = [
         title: 'Insurance Claims System',
         description: 'Enterprise-grade claims processing platform with role-based security.',
         tags: ['ASP.NET Core', 'SQL Server', 'JWT', 'React'],
-        stats: '1k+ Claims/Mo',
+        stats: '10k+ Claims',
         link: '#',
         github: 'https://github.com/harishvh12345/Banking_Application_Frontend',
         Visual: InsuranceVisual

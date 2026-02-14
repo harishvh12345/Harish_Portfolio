@@ -1,4 +1,4 @@
-import React from 'react';
+
 import { motion } from 'framer-motion';
 import { Code2, Globe, Cpu, Award } from 'lucide-react';
 

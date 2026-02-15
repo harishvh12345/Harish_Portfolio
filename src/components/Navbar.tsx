@@ -134,7 +134,7 @@ const Navbar = () => {
                             <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-blue-400">
                                 <Linkedin size={24} />
                             </a>
-                            <a href="mailto:harish@example.com" className="text-gray-400 hover:text-purple-400">
+                            <a href="mailto:harish.vh12345@gmail.com" className="text-gray-400 hover:text-purple-400">
                                 <Mail size={24} />
                             </a>
                         </div>

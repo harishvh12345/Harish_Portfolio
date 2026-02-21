@@ -5,7 +5,7 @@ const certifications = [
     {
         name: 'AWS Certified Cloud Practitioner',
         issuer: 'Amazon Web Services',
-        date: '2023',
+        date: '2025',
         icon: 'AWS',
         color: 'from-orange-400 to-yellow-600',
         textColor: 'text-yellow-500',
@@ -15,7 +15,7 @@ const certifications = [
     {
         name: 'Microsoft Certified: C# Specialist',
         issuer: 'Microsoft',
-        date: '2022',
+        date: '2023',
         icon: 'MS',
         color: 'from-blue-400 to-blue-600',
         textColor: 'text-blue-500',
@@ -25,7 +25,7 @@ const certifications = [
     {
         name: 'Best Performance Award',
         issuer: 'HCL Tech',
-        date: '2023',
+        date: '2024',
         icon: 'HCL',
         color: 'from-purple-400 to-pink-600',
         textColor: 'text-purple-500',
